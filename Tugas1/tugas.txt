@@ -1,0 +1,8 @@
+cari program python untuk decision tree
+jelaskan datasetnya apa , programnya dari mana, librarynya dari mana, yang buat decisionnya siapa
+
+Cari program python untuk decision tree, jelaskan datasetnya apa, programnya dari mana, library apa
+
+Dataset: https://github.com/evan-roberts/decision-tree-scikit-learn/blob/main/life_insurance_data.csv
+Source Code: https://github.com/evan-roberts/decision-tree-scikit-learn/blob/main/decision-tree-scikit-learn.ipynb
+Library: Pandas, Matplotlib, Scikit-learn
